@@ -1,7 +1,7 @@
 ## tum_simulator ported to Ros Melodic and Gazebo 9
 The original code was written in hydro which can be found here :
-https://github.com/tum-vision/tum_simulator.git
-This is a ros melodic version of the code.
+* https://github.com/tum-vision/tum_simulator.git
+This is a ros melodic version of tum simulator.
 Tested on Ubuntu 18.04.1, ROS Melodic and using Gazebo 9.
 How to run a simulation:
 1. create a package
