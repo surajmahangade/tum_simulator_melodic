@@ -14,7 +14,9 @@ How to run a simulation:
 3. Build
 * `cd ~/catkin_ws`
 * `catkin_make`
-4. Run the simulation
+4. Source
+* `source ~/catkin_ws/devel/setup.bash`
+5. Run the simulation
 Run a simulation by executing a launch file in cvg_sim_gazebo package: 
 
 * `roslaunch cvg_sim_gazebo ardrone_testworld.launch`
